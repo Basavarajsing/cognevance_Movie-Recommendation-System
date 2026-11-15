@@ -1,0 +1,11 @@
+movie_id,clean_title,year,genres,recommendation_score,explanation
+250,"Fifth Element, The",1997,Action|Sci-Fi,4.26,"Recommended based on your preferred genre (Action, Sci-Fi)."
+1416,No Escape,1994,Action|Sci-Fi,4.21,"Recommended based on your preferred genre (Action, Sci-Fi)."
+797,Timecop,1994,Action|Sci-Fi,4.19,"Recommended based on your preferred genre (Action, Sci-Fi)."
+578,Demolition Man,1993,Action|Sci-Fi,4.16,"Recommended based on your preferred genre (Action, Sci-Fi)."
+1419,Highlander III: The Sorcerer,1994,Action|Sci-Fi,4.08,"Recommended based on your preferred genre (Action, Sci-Fi)."
+96,Terminator 2: Judgment Day,1991,Action|Sci-Fi|Thriller,4.07,"Recommended based on your preferred genre (Action, Sci-Fi, Thriller)."
+195,"Terminator, The",1984,Action|Sci-Fi|Thriller,4.04,"Recommended based on your preferred genre (Action, Sci-Fi, Thriller)."
+228,Star Trek: The Wrath of Khan,1982,Action|Adventure|Sci-Fi,4.0,"Recommended based on your preferred genre (Action, Adventure, Sci-Fi)."
+298,Face/Off,1997,Action|Sci-Fi|Thriller,3.98,"Recommended based on your preferred genre (Action, Sci-Fi, Thriller)."
+82,Jurassic Park,1993,Action|Adventure|Sci-Fi,3.96,"Recommended based on your preferred genre (Action, Adventure, Sci-Fi)."

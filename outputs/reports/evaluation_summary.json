@@ -1,0 +1,47 @@
+[
+  {
+    "Model": "Popularity (Bayesian WR)",
+    "RMSE": 1.0646,
+    "MAE": 0.8567,
+    "Precision@10": 0.0,
+    "Recall@10": 0.0,
+    "F1@10": 0.0,
+    "Hit_Rate@10": 0.0
+  },
+  {
+    "Model": "User-Based CF (UBCF)",
+    "RMSE": 0.9534,
+    "MAE": 0.738,
+    "Precision@10": 0.111,
+    "Recall@10": 0.0497,
+    "F1@10": 0.0508,
+    "Hit_Rate@10": 0.5
+  },
+  {
+    "Model": "Item-Based CF (IBCF)",
+    "RMSE": 0.9606,
+    "MAE": 0.7443,
+    "Precision@10": 0.053,
+    "Recall@10": 0.04,
+    "F1@10": 0.0371,
+    "Hit_Rate@10": 0.34
+  },
+  {
+    "Model": "Content-Based (TF-IDF + Genre)",
+    "RMSE": "N/A (Ranking only)",
+    "MAE": "N/A (Ranking only)",
+    "Precision@10": 0.032,
+    "Recall@10": 0.0158,
+    "F1@10": 0.0178,
+    "Hit_Rate@10": 0.24
+  },
+  {
+    "Model": "Hybrid Recommender (CineMatch)",
+    "RMSE": 0.9867,
+    "MAE": 0.7736,
+    "Precision@10": 0.153,
+    "Recall@10": 0.0544,
+    "F1@10": 0.0669,
+    "Hit_Rate@10": 0.57
+  }
+]

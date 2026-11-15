@@ -1,0 +1,84 @@
+{
+  "initial_counts": {
+    "raw_ratings": 100000,
+    "raw_movies": 1682,
+    "raw_users": 943
+  },
+  "processed_counts": {
+    "ratings": 100000,
+    "movies": 1682,
+    "users": 943
+  },
+  "rating_range": [
+    1.0,
+    5.0
+  ],
+  "rating_mean": 3.52986,
+  "rating_std": 1.125673599144316,
+  "year_range": [
+    1922,
+    1998
+  ],
+  "null_counts": {
+    "ratings": {
+      "user_id": 0,
+      "movie_id": 0,
+      "rating": 0,
+      "timestamp": 0
+    },
+    "movies": {
+      "movie_id": 0,
+      "title": 0,
+      "release_date": 1,
+      "video_release_date": 1682,
+      "imdb_url": 3,
+      "unknown": 0,
+      "Action": 0,
+      "Adventure": 0,
+      "Animation": 0,
+      "Children's": 0,
+      "Comedy": 0,
+      "Crime": 0,
+      "Documentary": 0,
+      "Drama": 0,
+      "Fantasy": 0,
+      "Film-Noir": 0,
+      "Horror": 0,
+      "Musical": 0,
+      "Mystery": 0,
+      "Romance": 0,
+      "Sci-Fi": 0,
+      "Thriller": 0,
+      "War": 0,
+      "Western": 0
+    },
+    "users": {
+      "user_id": 0,
+      "age": 0,
+      "gender": 0,
+      "occupation": 0,
+      "zip_code": 0
+    }
+  },
+  "duplicates_removed": 0,
+  "genres_list": [
+    "Action",
+    "Adventure",
+    "Animation",
+    "Children's",
+    "Comedy",
+    "Crime",
+    "Documentary",
+    "Drama",
+    "Fantasy",
+    "Film-Noir",
+    "Horror",
+    "Musical",
+    "Mystery",
+    "Romance",
+    "Sci-Fi",
+    "Thriller",
+    "War",
+    "Western"
+  ]
+}

@@ -1,0 +1,6 @@
+Model,RMSE,MAE,Precision@10,Recall@10,F1@10,Hit_Rate@10
+Popularity (Bayesian WR),1.0646,0.8567,0.0,0.0,0.0,0.0
+User-Based CF (UBCF),0.9534,0.738,0.111,0.0497,0.0508,0.5
+Item-Based CF (IBCF),0.9606,0.7443,0.053,0.04,0.0371,0.34
+Content-Based (TF-IDF + Genre),N/A (Ranking only),N/A (Ranking only),0.032,0.0158,0.0178,0.24
+Hybrid Recommender (CineMatch),0.9867,0.7736,0.153,0.0544,0.0669,0.57
